@@ -30,4 +30,9 @@ public class Handler {
 		return game.getHeight();
 	}
 
+	public T getSystem(Class<T> clazz) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }
