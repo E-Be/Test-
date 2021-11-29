@@ -28,7 +28,5 @@ public abstract class Components {
 	final protected Handler getHandler() throws NullPointerException {
         return entity.getHandler();
     }
-	
-	
 
 }

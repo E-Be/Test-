@@ -81,7 +81,4 @@ public class Entity {
 		this.handler = handler;
 	}
 	
-	
-	
-
 }
